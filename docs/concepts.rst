@@ -2,6 +2,8 @@
 Concepts
 ========
 
+Extract of https://market.mashape.com/igdbcom/internet-game-database/overview
+
 Fields
 ------
 Fields are properties of an entity. For example, a Game field would be rating or release_dates. Some fields have properties of their own, for example, the esrb field has the property synopsis.
